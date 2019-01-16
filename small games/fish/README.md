@@ -3,4 +3,4 @@
 * Your fish is the golden one in the following image.
   
   
-![运行时的图片](https://github.com/gengxk628/Java/blob/master/small%20games/fish/fish running.png)
+![运行时的图片](https://github.com/gengxk628/Java/blob/master/small%20games/fish/fish%20running.png)
