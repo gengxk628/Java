@@ -3,7 +3,7 @@ import java.awt.event.*;
 
 public class bird {
     public static void main(String args[]) {
-        myfr fr = new myfr("flying bird");
+        myfr fr = new myfr("bird by gengxk628");
     }
 }
 
